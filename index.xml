@@ -2,7 +2,7 @@
   <channel>
       <title>My New Hugo Site on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://example.org/</link>
+    <link>https://markvincze.github.io/cookbook/</link>
     <language>en-us</language>
     
     
@@ -10,20 +10,20 @@
     
     <item>
       <title>Sinclair Potato Rolls</title>
-      <link>http://example.org/post/sinclair-potato-rolls/</link>
+      <link>https://markvincze.github.io/cookbook/post/sinclair-potato-rolls/</link>
       <pubDate>Sat, 20 Mar 2021 16:06:11 &#43;0100</pubDate>
       
-      <guid>http://example.org/post/sinclair-potato-rolls/</guid>
+      <guid>https://markvincze.github.io/cookbook/post/sinclair-potato-rolls/</guid>
       <description>Ingredients (makes 6 potato rolls)
  All-Purpose Flour, 290g Whole Milk, 100g Yukon Gold Potatoes, cooked and riced, 67g Potato Cooking Liquid, 24g Butter, 29g Eggs, 28g (half an egg) White Sugar, 24g Sea Salt, 7g Instant Yeast, 2g, or 5g Cake Yeast  Recipe  Mix dry ingredients Fold in the wet ingredients and mix, knead until dough forms. Let it rest covered in bowl for 20 minutes. Knead for a couple of minutes, form into ball, let it rise covered in bowl for 1 hour.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://example.org/search/</link>
+      <link>https://markvincze.github.io/cookbook/search/</link>
       <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
       
-      <guid>http://example.org/search/</guid>
+      <guid>https://markvincze.github.io/cookbook/search/</guid>
       <description></description>
     </item>
     
