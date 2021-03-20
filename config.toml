@@ -1,20 +1,27 @@
+relativeURLs = true
+canonifyUrls = true
+languageCode = "en-us"
+layoutDir = "layouts"
 contentdir = "content"
 publishdir = "public"
 baseURL = "https://markvincze.github.io/cookbook/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Cookbook"
 theme = "pixyll"
 
+[blackfriday]
+angledQuotes = true
+hrefTargetBlank = true
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
 [params]
+  mainSections = ["post"]
   search_engine = true
+  paginate = 5
 
-# [[menu.main]]
-#     identifier = "blog"
-#     # name = "Blog" #If display text link, cancel comment out
-#     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
-#     url = "/blog/"
-#     weight = 10
-
-# [outputs]
-#     section = ["JSON", "HTML"]
-#     term = ["JSON", "HTML"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
