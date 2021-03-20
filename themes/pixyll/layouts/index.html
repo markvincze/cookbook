@@ -20,7 +20,7 @@
                 <!--            {{ template "_internal/pagination.html" . }} -->
             </div>
                     {{ else }}
-                        {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+                        {{ range first 100 .Site.RegularPages.ByDate.Reverse }}
                             {{ if eq .Type "post" }}
                                 {{ .Render "summary"}}
                             {{ end }}

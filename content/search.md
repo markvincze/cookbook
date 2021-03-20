@@ -1,10 +1,9 @@
-+++
-date = "2014-11-09T13:49:44+04:00"
-draft = false
-title = "Search"
-slug = "search"
-
-+++
+---
+date: "2014-11-09T13:49:44+04:00"
+draft: false
+title: "Search"
+slug: "search"
+---
 
 <div>
 <link rel="stylesheet" type="text/css" href="../tipuesearch/tipuesearch.css">
