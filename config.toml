@@ -1,6 +1,6 @@
 contentdir = "content"
 publishdir = "public"
-baseURL = "http://example.org/"
+baseURL = "https://markvincze.github.io/cookbook/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "pixyll"
