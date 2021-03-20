@@ -1,0 +1,18 @@
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/h-enk/doks.git
+[submodule "themes/pixyll"]
+	path = themes/pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book.git
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = git@github.com:frjo/hugo-theme-zen.git
+[submodule "themes/pure"]
+	path = themes/pure
+	url = git@github.com:xiaoheiAh/hugo-theme-pure.git

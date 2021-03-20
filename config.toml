@@ -1,0 +1,20 @@
+contentdir = "content"
+publishdir = "public"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "pixyll"
+
+[params]
+  search_engine = true
+
+# [[menu.main]]
+#     identifier = "blog"
+#     # name = "Blog" #If display text link, cancel comment out
+#     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+#     url = "/blog/"
+#     weight = 10
+
+# [outputs]
+#     section = ["JSON", "HTML"]
+#     term = ["JSON", "HTML"]

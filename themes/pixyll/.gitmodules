@@ -1,0 +1,3 @@
+[submodule "exampleSite/themes/pixyll"]
+	path = exampleSite/themes/pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll.git
