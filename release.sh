@@ -1,13 +1,6 @@
 #!/bin/sh
 set -ev
 
-echo "Run the hugo build"
-hugo
-
-echo "Generate search index"
-pip install -r requirements
-python create_search_index.py
-
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
 
