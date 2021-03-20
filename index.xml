@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>My New Hugo Site on My New Hugo Site </title>
+      <title>My Cookbook on My Cookbook </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://markvincze.github.io/cookbook/</link>
     <language>en-us</language>
@@ -24,7 +24,7 @@
       <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/search/</guid>
-      <description></description>
+      <description>      $(document).ready(function() { $(&#39;#tipue_search_input&#39;).tipuesearch({ &#39;mode&#39; : &#39;json&#39;, &#39;show&#39;: 10, &#39;newWindow&#39;: true, &#39;wholeWords&#39;: false }); });    </description>
     </item>
     
   </channel>

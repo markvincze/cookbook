@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Search - My New Hugo Site</title>
+  <title>Search - My Cookbook</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -29,7 +29,7 @@
   <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="https://markvincze.github.io/cookbook/" class="site-title">My New Hugo Site</a>
+      <a href="https://markvincze.github.io/cookbook/" class="site-title">My Cookbook</a>
       <nav class="site-nav right">
       <a href="https://markvincze.github.io/cookbook//about/">About</a>
 <a href="https://markvincze.github.io/cookbook//tags/">Tags</a>
@@ -53,8 +53,27 @@
       </div>
 
       <article class="post-content">
-      <!-- raw HTML omitted -->
-
+      <div>
+<link rel="stylesheet" type="text/css" href="../tipuesearch/tipuesearch.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+<script type="text/javascript" src="../tipuesearch/tipuesearch_set.js"></script>
+<script type="text/javascript" src="../tipuesearch/tipuesearch.min.js"></script>
+<script type="text/javascript" src="../tipuesearch/tipuesearch_content.js"></script>
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch({
+         'mode' : 'json',
+         'show': 10,
+         'newWindow': true,
+         'wholeWords': false
+     });
+});
+</script>
+<div class="span8 offset2">
+    <div id="tipue_search_content"><div id="tipue_search_loading"></div>
+</div>
+</div>
       </article>
     </div>
   </div>
@@ -63,7 +82,7 @@
       <div class="p2 wrap">
         <div class="measure mt1 center">
       <nav class="social-icons icons">
-<a class="fa fa-rss rss" href="/index.xml"></a>
+<a class="fa fa-rss rss" href="../index.xml"></a>
 
 </nav>
 
