@@ -19,7 +19,7 @@ hrefTargetBlank = true
 [params]
   mainSections = ["post"]
   search_engine = true
-  paginate = 5
+  # paginate = 5
 
 [markup]
   [markup.goldmark]
