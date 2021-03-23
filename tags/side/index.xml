@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>side on My Cookbook</title>
+    <link>https://markvincze.github.io/cookbook/tags/side/</link>
+    <description>Recent content in side on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/side/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mashed Potatoes</title>
+      <link>https://markvincze.github.io/cookbook/post/mashed-potatoes/</link>
+      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/post/mashed-potatoes/</guid>
+      <description> Cook the peeled, chopped potatoes (1.5kg) in salty water, 15-20 minutes. Mash the potatoes. Melt ~100g butter. Stir it into the potatoes. Heat up 1 cup of cream, and add aromatics (2-3 cloves of garlic) Stir the cream into the the potatoes in small batches.  </description>
+    </item>
+    
+  </channel>
+</rss>
