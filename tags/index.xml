@@ -6,7 +6,52 @@
     <description>Recent content in Tags on My Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chicken</title>
+      <link>https://markvincze.github.io/cookbook/tags/chicken/</link>
+      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>main</title>
+      <link>https://markvincze.github.io/cookbook/tags/main/</link>
+      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
+      <link>https://markvincze.github.io/cookbook/tags/meat/</link>
+      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/meat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexican</title>
+      <link>https://markvincze.github.io/cookbook/tags/mexican/</link>
+      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sandwich</title>
+      <link>https://markvincze.github.io/cookbook/tags/sandwich/</link>
+      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/sandwich/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>asian</title>
       <link>https://markvincze.github.io/cookbook/tags/asian/</link>
@@ -44,15 +89,6 @@
     </item>
     
     <item>
-      <title>chicken</title>
-      <link>https://markvincze.github.io/cookbook/tags/chicken/</link>
-      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>chinese</title>
       <link>https://markvincze.github.io/cookbook/tags/chinese/</link>
       <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
@@ -80,38 +116,11 @@
     </item>
     
     <item>
-      <title>main</title>
-      <link>https://markvincze.github.io/cookbook/tags/main/</link>
-      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/main/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meat</title>
-      <link>https://markvincze.github.io/cookbook/tags/meat/</link>
-      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/meat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>potato</title>
       <link>https://markvincze.github.io/cookbook/tags/potato/</link>
       <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/tags/potato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sandwich</title>
-      <link>https://markvincze.github.io/cookbook/tags/sandwich/</link>
-      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/sandwich/</guid>
       <description></description>
     </item>
     
