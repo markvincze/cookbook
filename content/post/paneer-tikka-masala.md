@@ -11,6 +11,7 @@ tags: ["main", "indian", "vegetarian", "curry"]
  - 1 tbsp chickpea flour
  - 1 tsp paprika powder
  - 1.5 tsp coriander powder
+ - 0.5 tsp masala powder
  - 0.25 tsp turmeric powder
  - less than 0.5 tsp salt
 
@@ -22,6 +23,7 @@ tags: ["main", "indian", "vegetarian", "curry"]
 
  - 2 tbsp oil
  - 0.5 tsp cumin seeds
+ - 2 medium red onions, chopped
  - 0.25 tsp turmeric powder
  - 1 tsp coriander powder
  - 1 tsp dry fenugreek leaves
@@ -36,9 +38,10 @@ tags: ["main", "indian", "vegetarian", "curry"]
  - 0.5 tsp garam masala
  - Fresh coriander
 
- 1. Heat the oil, and fry the cumin seeds. Then add the rest of the spices and the ginger paste and garlic, fry for a couple of minutes.
- 1. Add tomato paste and paprika powder and chili powder. Saute it until oil starts separating.
+ 1. Heat the oil, fry the onions, and fry the cumin seeds. Then add the rest of the spices and the ginger paste and garlic, fry for a couple of minutes.
+ 1. Add tomatoes and paprika powder and chili powder. Saute it until oil starts separating.
  1. Add water, salt and sugar.
  1. Add garam masala and coriander.
+ 1. Blend it with an immersion blender.
  1. Then add the roasted paneer and the vegetables.
  1. Optionally mix in some butter.
