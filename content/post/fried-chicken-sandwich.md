@@ -17,7 +17,7 @@ tags: ["main", "meat", "chicken", "sandwich"]
 
 4 skin-on or skinless, boneless chicken thighs
 
-### SEASONED MAYONNAISE
+### Seasoned Mayonnaise
 
 1 garlic clove, finely grated
 
@@ -33,41 +33,25 @@ tags: ["main", "meat", "chicken", "sandwich"]
 
 Kosher salt
 
-### ASSEMBLY
+### Assembly
 
-1½ cups all-purpose flour
-
-⅓ cup cornstarch
-
-1 tablespoon garlic powder
-
-1 tablespoon onion powder
-
-1 tablespoon paprika
-
-2 teaspoons cayenne pepper
-
-2 tablespoons Diamond Crystal or 3½ teaspoons Morton kosher salt, plus more
-
-1 large egg, beaten to blend
-
-1 cup buttermilk
-
-2 tablespoons bourbon (optional)
-
-3 tablespoons hot sauce (such as Frank’s); plus more for serving (optional)
-
-Peanut or vegetable oil (for frying; about 8 cups)
-
-4 seeded soft hamburger buns
-
-3 tablespoons unsalted butter, melted
-
-Bread-and-Butter Pickles (for serving), plus 1 tablespoon brine
-
-4 cups thinly sliced iceberg lettuce
-
-Freshly ground black pepper
+ - 1½ cups all-purpose flour
+ - ⅓ cup cornstarch
+ - 1 tablespoon garlic powder
+ - 1 tablespoon onion powder
+ - 1 tablespoon paprika
+ - 2 teaspoons cayenne pepper
+ - 2 tablespoons Diamond Crystal or 3½ teaspoons Morton kosher salt, plus more
+ - 1 large egg, beaten to blend
+ - 1 cup buttermilk
+ - 2 tablespoons bourbon (optional)
+ - 3 tablespoons hot sauce (such as Frank’s); plus more for serving (optional)
+ - Peanut or vegetable oil (for frying; about 8 cups)
+ - 4 seeded soft hamburger buns
+ - 3 tablespoons unsalted butter, melted
+ - Bread-and-Butter Pickles (for serving), plus 1 tablespoon brine
+ - 4 cups thinly sliced iceberg lettuce
+ - Freshly ground black pepper
 
 ## Recipe
 
