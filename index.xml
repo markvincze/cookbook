@@ -27,6 +27,15 @@
     </item>
     
     <item>
+      <title>Chop Suey</title>
+      <link>https://markvincze.github.io/cookbook/post/chop-suey/</link>
+      <pubDate>Wed, 14 Jul 2021 16:06:11 &#43;0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/post/chop-suey/</guid>
+      <description>Ingredients  chicken breast or pork cut into small size -optional 1 cauliflower 1 piece carrot 8 pieces baby corn - optional 1 piece red bell pepper 1 piece green bell pepper ½ cabbage chopped 1 piece onion 4 cloves garlic crushed ¼ cup soy sauce 1 tablespoons oyster sauce - optional ¾ cup water 1 tablespoon cornstarch diluted in ½ cup water ¼ teaspoon ground black pepper 3 tablespoons cooking oil  Instructions  Heat oil in a wok or pan.</description>
+    </item>
+    
+    <item>
       <title>Lasagna</title>
       <link>https://markvincze.github.io/cookbook/post/lasagna/</link>
       <pubDate>Wed, 14 Jul 2021 16:06:11 &#43;0100</pubDate>
@@ -144,15 +153,6 @@ Assembly  1½ cups all-purpose flour ⅓ cup cornstarch 1 tablespoon garlic powd
       
       <guid>https://markvincze.github.io/cookbook/post/steak/</guid>
       <description>Season steak with salt and pepper, and let it sit at room temp for 30 minutes. Preheat the oven to 110 C, and bake the steak for around 45 minutes, or until the middle registers at 50 C. Heat 1 tbsp oil on high heat, and sear the steak on both sides for 2 minutes. Add 2-3 tbsp butter, 1 clove of garlic and a sprig of rosemary, and baste both sides for 90 seconds.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://markvincze.github.io/cookbook/search/</link>
-      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/search/</guid>
-      <description>      $(document).ready(function() { $(&#39;#tipue_search_input&#39;).tipuesearch({ &#39;mode&#39; : &#39;json&#39;, &#39;show&#39;: 10, &#39;newWindow&#39;: true, &#39;wholeWords&#39;: false }); });    </description>
     </item>
     
   </channel>
