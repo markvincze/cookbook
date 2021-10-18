@@ -6,7 +6,16 @@
     <description>Recent content in Tags on My Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2021 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baking</title>
+      <link>https://markvincze.github.io/cookbook/tags/baking/</link>
+      <pubDate>Fri, 15 Oct 2021 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/baking/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bread</title>
       <link>https://markvincze.github.io/cookbook/tags/bread/</link>
@@ -139,15 +148,6 @@
       <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/tags/sandwich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>baking</title>
-      <link>https://markvincze.github.io/cookbook/tags/baking/</link>
-      <pubDate>Sat, 20 Mar 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/baking/</guid>
       <description></description>
     </item>
     
