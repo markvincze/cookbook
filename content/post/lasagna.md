@@ -26,7 +26,7 @@ tags: ["italian", "pasta"]
 
 ### Bechamel
 
- - 7 Tbsp. unsalted butter
+ - 100g unsalted butter
  - 50g all-purpose flour
  - 1400ml cups whole milk
  - 110g Parmesan, coarsely grated (about 1 cup)
@@ -36,7 +36,7 @@ tags: ["italian", "pasta"]
 
 ### Assembly
 
- - 500g dried lasagna noodles (we like De Cecco since they are wide and short)
+ - 500g dried lasagna noodles
  - Kosher salt
  - Extra-virgin olive oil (for greasing)
 
