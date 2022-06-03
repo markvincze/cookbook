@@ -12,9 +12,9 @@ tags: ["pastry", "italian"]
  - 0.5 tbsp kosher salt
  - 2.5 tbsp olive oil
 
-Combine flour with 1¼ cups room-temperature water, mix until incorporated and shaggy. Cover.
+Combine flour with 1¼ cups (296 ml) room-temperature water, mix until incorporated and shaggy. Cover.
 
-Stir yeast, sugar, and ¼ cup warm water in a small bowl. Let sit until yeast is foamy, about 5 minutes.
+Stir yeast, sugar, and ¼ (60 ml) cup warm water in a small bowl. Let sit until yeast is foamy, about 5 minutes.
 
 Pour yeast mixture into dough, mix on low speed until incorporated (~1 minute). Add salt, keep mixing until elastic and sticky (~5 minutes)
 
