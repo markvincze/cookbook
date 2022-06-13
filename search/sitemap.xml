@@ -6,6 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://markvincze.github.io/cookbook/post/steak/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/classic-coleslaw/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/mashed-potatoes/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
+<url><loc>https://markvincze.github.io/cookbook/post/basic-pesto/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/lasagna/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/pogacsa/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/focaccia/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
