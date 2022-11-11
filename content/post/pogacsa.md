@@ -10,7 +10,7 @@ tags: ["baking"]
  - 25dkg vaj
  - 5dkg élesztő
  - Annyi tejföl, hogy összeálljon a tészta
- - 2 teáskanál só
+ - 2 teáskanál só (sajt nélkül púpozott kanál, különben sótlan lesz)
  - 1 tojás, sárgája a tésztába, fehérjével megkenni
 
 Összegyúrni annyira, hogy összeáljon, letakarva kétszeresére keleszteni.
