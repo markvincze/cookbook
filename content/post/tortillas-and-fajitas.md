@@ -14,6 +14,13 @@ tags: ["main", "meat", "chicken", "sandwich", "mexican"]
  - 4g salt (1 small teaspoon)
  - 75g lard
 
+or 
+
+ - 675g AP flour
+ - 495ml warm water
+ - 6g salt (1.5 small teaspoon)
+ - 100g lard
+
 ## Recipe
 
  1. Mix lard with flour, mix in salt
