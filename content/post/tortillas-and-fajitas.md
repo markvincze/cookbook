@@ -10,9 +10,9 @@ tags: ["main", "meat", "chicken", "sandwich", "mexican"]
 ## Ingredients (makes about a dozen tortillas, ~55g each)
 
  - 450g AP flour
- - 380ml warm water
- - 4g salt
- - 90g lard
+ - 330ml warm water
+ - 4g salt (1 small teaspoon)
+ - 75g lard
 
 ## Recipe
 
