@@ -4,6 +4,7 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://markvincze.github.io/cookbook/post/strudel/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/steak/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
+<url><loc>https://markvincze.github.io/cookbook/post/greek-salad/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/classic-coleslaw/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/mashed-potatoes/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/carrot-cake/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
@@ -17,6 +18,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://markvincze.github.io/cookbook/post/sourdough-bread/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/pizza-dough/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/yoghurt-cake/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
+<url><loc>https://markvincze.github.io/cookbook/post/potato-salad/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/milk-bread/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/chop-suey/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/tortillas-and-fajitas/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
@@ -29,6 +31,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://markvincze.github.io/cookbook/post/chocolate-chip-cookie/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/chicken-tikka-masala/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/spicy-chicken-stir-fry/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
+<url><loc>https://markvincze.github.io/cookbook/post/fasirt/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/fried-chicken-sandwich/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/cherry-biscuit-cobbler/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
 <url><loc>https://markvincze.github.io/cookbook/post/jalfrezi/</loc><changefreq>daily</changefreq><priority>0.5</priority></url>
