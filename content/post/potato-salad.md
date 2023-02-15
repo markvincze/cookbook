@@ -1,6 +1,6 @@
 ---
 title: "Potato salad with mayonaise"
-date: 2023-02-15T16:06:11+01:00
+date: 2023-02-14T16:06:11+01:00
 draft: false
 tags: ["salad", "side-dish"]
 ---
