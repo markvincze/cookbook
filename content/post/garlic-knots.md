@@ -9,28 +9,27 @@ tags: ["baking"]
 
 ### Dough
 
- - 1 ½ cups white bread flour (190 g)
- - 1 teaspoon instant dry yeast
+ - 1 package (2 1/4 teaspoons) active dry yeast
+ - 1 teaspoon sugar
+ - 7/8 cup (207ml) warm water (105°F to 115°F)
+ - 2 1/4 cups (300g) bread flour, plus more for flouring the work surface and your hands
  - 1 teaspoon salt
- - 1 cup warm water (240 mL)
- - 2 teaspoons olive oil
- - flour, extra for dusting
+ - 1 tablespoon extra virgin olive oil, plus more for greasing the bowl and brushing the knots
 
 ### Garlic butter
 
- - 3 tablespoons butter, melted
- - 4 cloves garlic, crushed
- - 1 small handful fresh parsley, chopped
+5 tablespoons unsalted butter
+4 cloves garlic, minced
+1/4 cup parsley, minced
+1 teaspoon salt
 
 ## Recipe
 
-1. For the dough, mix together the flour, yeast, and salt, and make a well in the middle.
-1. Pour the water and 1 teaspoon of olive oil into the well and mix together.
-1. Knead for about 7-10 minutes until the dough is springy.
-1. Line a bowl with the other teaspoon of olive oil, place the dough in the bowl, cover, and leave to rise in a warm place for 1 hour (or until doubled in size).
-1. Tear the dough into 9 separate balls and then roll into long tubes, folding over to make a knot.
-1. Place the knots on a baking tray.
-1. Bake in a 350°F (180°C) oven for 10 minutes.
-1. Prepare the garlic butter by mixing the butter, garlic, and parsley.
-1. Coat the knots with the butter mixture and bake for another 5 minutes.
+1. Mix and knead the dough for 10 minutes
+1. Let it rise either at room temperature or overnight, until doubled in size
+1. Cut into 8 pieces, form into tubes, and tie into knots
+1. Brush with olive oil, cover the knots and let them rise until doubled, between 90-180 minutes
+1. Preheat the oven to 200 degrees, bake the knots until browned, 12-15 minutes
+1. Make the garlic butter by melting it, and cooking the garlic for 1-2 minutes, and adding the salt
+1. Take out the knots, let them cool for 5 minutes, and brush them with the garlic butter
 
