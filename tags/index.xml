@@ -6,7 +6,34 @@
     <description>Recent content in Tags on My Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Mar 2023 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chicken</title>
+      <link>https://markvincze.github.io/cookbook/tags/chicken/</link>
+      <pubDate>Sun, 07 May 2023 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hungarian</title>
+      <link>https://markvincze.github.io/cookbook/tags/hungarian/</link>
+      <pubDate>Sun, 07 May 2023 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/hungarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
+      <link>https://markvincze.github.io/cookbook/tags/meat/</link>
+      <pubDate>Sun, 07 May 2023 16:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/meat/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>italian</title>
       <link>https://markvincze.github.io/cookbook/tags/italian/</link>
@@ -31,15 +58,6 @@
       <pubDate>Tue, 14 Feb 2023 16:06:11 +0100</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/tags/baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meat</title>
-      <link>https://markvincze.github.io/cookbook/tags/meat/</link>
-      <pubDate>Tue, 14 Feb 2023 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/meat/</guid>
       <description></description>
     </item>
     
@@ -130,15 +148,6 @@
       <pubDate>Wed, 14 Jul 2021 16:06:11 +0100</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/tags/vegetarian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chicken</title>
-      <link>https://markvincze.github.io/cookbook/tags/chicken/</link>
-      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/chicken/</guid>
       <description></description>
     </item>
     
