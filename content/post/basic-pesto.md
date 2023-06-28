@@ -1,6 +1,6 @@
 ---
 title: "Basic Pesto"
-date: 2022-06-13:06:11+01:00
+date: 2022-06-13T16:06:11+01:00
 draft: false
 tags: ["italian"]
 ---
@@ -11,7 +11,7 @@ tags: ["italian"]
  - 2 tablespoons pine nuts or walnuts
  - 2 large cloves garlic
  - 0.5 cup olive oil
- - 0.5 cup of grated parmesan
+ - 0.5 cup (45g) of grated parmesan
 
 ## Preparation
 
