@@ -40,3 +40,20 @@ tags: ["pasta", "italian", "american", "meat"]
  - Add a tsp of salt, black pepper, and a bunch of basil stems
  - Add the meatballs, and simmer for ~1 hour.
 
+# Garlic bread
+
+## Ingredients
+
+ - 9 - 10 garlic cloves, unpeeled
+ - 6 tablespoons unsalted butter, softened
+ - 2 tablespoons grated Parmesan cheese
+ - ½ teaspoon table salt
+ - 1 loaf Italian bread, halved lengthwise
+
+## Recipe
+
+ - Heat oven to 250 C.
+ - Toast garlic cloves in skillet whole, ~8 minutes, then peel and mince.
+ - Mash garlic, butter, parmesan and salt.
+ - Half bread lengthwise. Spread garlic butter mixture.
+ - Bake until golden brown, 8-10 minutes.
