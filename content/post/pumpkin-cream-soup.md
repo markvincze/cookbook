@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin cream soup``"
+title: "Pumpkin cream soup"
 date: 2024-10-20T16:06:11+01:00
 draft: false
 tags: ["soup", "vegetarian", "pumpkin", "cream soup"]
