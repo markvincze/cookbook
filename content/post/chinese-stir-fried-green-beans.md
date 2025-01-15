@@ -2,7 +2,7 @@
 title: "Chinese stir-fried green beans"
 date: 2025-01-10T14:06:11+01:00
 draft: false
-tags: ["baking"]
+tags: ["vegetarian", "side", "chinese"]
 ---
 
 # Ingredients
@@ -21,7 +21,7 @@ tags: ["baking"]
 
 # Recipe
 
-Combine sauce ingredients
-Dry-fry beans in a little oil for 10 minutes, until tender crisp and charred.
-Pour sauce into skillet, sauté for a couple of minutes until thickened and the beans are coated.
+Combine sauce ingredients.  
+Dry-fry beans in a little oil for 10 minutes, until tender crisp and charred.  
+Pour sauce into skillet, sauté for a couple of minutes until thickened and the beans are coated.  
 Top with sesame seeds.

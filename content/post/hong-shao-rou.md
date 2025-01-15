@@ -34,14 +34,13 @@ tags: ["chinese", "pork"]
 
 # Recipe
 
-Sear pork belly skin side down until browned.
-Wash pork belly, and scrape down browned skin.
-Blanch the pork belly in rolling boil for 15 minutes with some cooking wine, ginger and scallions, skim foam.
-Cool the pork in cold water. Cut pork into bite size pieces.
-Caramellize sugar in oil.
-Stir fry pork until browned.
-Add garlic, ginger and spices, stir fry for a minute.
-Add water, soy sauce, cooking wine, braise for one hour covered.
-Optional: add some chicken or quail eggs and boil with meat.
-
+Sear pork belly skin side down until browned.  
+Wash pork belly, and scrape down browned skin.  
+Blanch the pork belly in rolling boil for 15 minutes with some cooking wine, ginger and scallions, skim foam.  
+Cool the pork in cold water. Cut pork into bite size pieces.  
+Caramellize sugar in oil.  
+Stir fry pork until browned.  
+Add garlic, ginger and spices, stir fry for a minute.  
+Add water, soy sauce, cooking wine, braise for one hour covered.  
+Optional: add some chicken or quail eggs and boil with meat.  
 Remove cover, simmer until sauce is thickened, season with salt.
