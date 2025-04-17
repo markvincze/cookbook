@@ -7,18 +7,18 @@ tags: ["indian", "vegetarian"]
 
 # Ingredients
 
-2 medium russet potatoes, cut into 2"-long sticks
-1 medium head of cauliflower, cut into small florets
-5 Tbsp. extra-virgin olive oil, divided
-1 tsp. cumin seeds
-½ tsp. ground turmeric
-1 small onion, finely chopped
-1 Tbsp. thinly sliced ginger
-Pinch of asafetida (optional, but really great)
-Pinch of red chili powder
-1 tsp. (or more) kosher salt
-1 Tbsp. (or more) fresh lime juice
-½ cup chopped cilantro leaves with tender stems
+ - 2 medium russet potatoes, cut into 2"-long sticks
+ - 1 medium head of cauliflower, cut into small florets
+ - 5 Tbsp. extra-virgin olive oil, divided
+ - 1 tsp. cumin seeds
+ - ½ tsp. ground turmeric
+ - 1 small onion, finely chopped
+ - 1 Tbsp. thinly sliced ginger
+ - Pinch of asafetida (optional, but really great)
+ - Pinch of red chili powder
+ - 1 tsp. (or more) kosher salt
+ - 1 Tbsp. (or more) fresh lime juice
+ - ½ cup chopped cilantro leaves with tender stems
 
 # Recipe
 
