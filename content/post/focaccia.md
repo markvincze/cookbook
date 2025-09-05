@@ -5,6 +5,33 @@ draft: false
 tags: ["pastry", "italian"]
 ---
 
+**Ingredients**
+
+ - 420ml water
+ - 15g fresh yeast
+ - 1 tsp honey
+ - 1 tbsp olive oil
+ - 2 tsp salt
+ - 500g flour
+
+**Recipe**
+
+ - Mix ingredients, cover, rest for 10 min
+ - Fold, rest for 10 min
+ - Fold, rest for 10 min
+ - Fold, rest for 10 min
+ - Place in bowl, cover with some olive oil
+ - Rest in fridge overnight
+ - Remove from fridge.
+ - Cover pan with baking paper and add olive oil.
+ - Fold dough and spread in tray.
+ - Cover, and rest for 2 hours.
+ - Drizzle with olive oil, dimple dough.
+ - Add toppings, sprinkle with flaky salt.
+ - Bake at 220C for 20 mins
+
+## Alternative recipe
+
  - Pan size: 22cmx32cm
  - 425g flour
  - 8g baker's yeast. (1⅛  tsp active dry yeast)
