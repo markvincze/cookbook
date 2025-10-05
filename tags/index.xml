@@ -6,7 +6,16 @@
     <description>Recent content in Tags on My Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 16:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Oct 2025 13:06:11 +0100</lastBuildDate><atom:link href="https://markvincze.github.io/cookbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mexican</title>
+      <link>https://markvincze.github.io/cookbook/tags/mexican/</link>
+      <pubDate>Sun, 05 Oct 2025 13:06:11 +0100</pubDate>
+      
+      <guid>https://markvincze.github.io/cookbook/tags/mexican/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>italian</title>
       <link>https://markvincze.github.io/cookbook/tags/italian/</link>
@@ -274,15 +283,6 @@
       <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
       
       <guid>https://markvincze.github.io/cookbook/tags/main/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mexican</title>
-      <link>https://markvincze.github.io/cookbook/tags/mexican/</link>
-      <pubDate>Wed, 30 Jun 2021 16:06:11 +0100</pubDate>
-      
-      <guid>https://markvincze.github.io/cookbook/tags/mexican/</guid>
       <description></description>
     </item>
     
