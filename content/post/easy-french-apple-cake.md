@@ -11,7 +11,7 @@ tags: ["baking"]
  - 1 teaspoon baking powder
  - 1 teaspoon kosher salt
  - 2 large eggs, room temperature
- - 1 cup (200g) granulated sugar
+ - 100g granulated sugar (this is the correct amount, halved from the original recipe)
  - 2 tablespoons rum
  - 2 teaspoons vanilla extract
  - 10 tablespoons (141g) unsalted butter, melted and cooled to room temperature
